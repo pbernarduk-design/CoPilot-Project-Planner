@@ -4,7 +4,7 @@ git init
 git add .
 git commit -m "Initial commit: PM Plan Generator (Streamlit)"
 git branch -M main
-git remote add origin https://github.com/<your-org-or-user>/pm-plan-generator.git
+git remote add origin https://github.com/pbernarduk-design/pm-plan-generator.git
 git push -u origin main
 
     # Steps represent a sequence of tasks that will be executed as part of the job
